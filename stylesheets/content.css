@@ -2,10 +2,10 @@
 h1, h2, h3 {
     font-family: 'Halvar Mittelschrift', sans-serif; font-weight: "ExtraBold";
   }
-    h1{ font-size: 300px;
+    h1{ font-size: 100px;
      font-weight: bold;
     }
-    h2{font-size: 200px;
+    h2{font-size: 100px;
     font-weight: Medium;
     font-family:'Halvar Mittel Md';
     }
@@ -24,7 +24,6 @@ h1, h2, h3 {
     margin-left: 2000px;
   padding-bottom: 300px;
   width: 1000px;
-}
 }
 
     .img4{
@@ -115,6 +114,8 @@ h1, h2, h3 {
   }
   td {
       display: block;
+      width: -webkit-min-content;
+      width: -moz-min-content;
       width: min-content;
   }
   .paragraph_1x{
@@ -194,4 +195,5 @@ body {
     font-family: 'Halvar Mittelschrift', sans-serif;
     margin: 100px 100px 80px 150px;
 
+}
 }
