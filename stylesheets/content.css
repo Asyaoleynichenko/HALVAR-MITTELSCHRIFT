@@ -1,0 +1,197 @@
+
+h1, h2, h3 {
+    font-family: 'Halvar Mittelschrift', sans-serif; font-weight: "ExtraBold";
+  }
+    h1{ font-size: 300px;
+     font-weight: bold;
+    }
+    h2{font-size: 200px;
+    font-weight: Medium;
+    font-family:'Halvar Mittel Md';
+    }
+
+
+    h1 {margin-top: 10px;
+    margin-left:10px }
+
+    .img1{
+      width:1885px;
+    margin-top: 20px;
+    margin-left:200px ;
+
+}
+    .img2{
+    margin-left: 2000px;
+  padding-bottom: 300px;
+  width: 1000px;
+}
+}
+
+    .img4{
+      width: 313,5px;
+    margin-left: 51px;
+    padding-top:300px;
+}
+    .bold{
+      margin-left: 126px;
+      margin-top: 134px;
+
+}
+.Rectangle{
+  margin-bottom: 10px;
+  padding-left: 130px;
+  width: 1181px;
+  height: 595px;
+}
+.верх{
+  width: 1507px;
+  padding-left: 2000px;
+  margin-top: 190px;
+
+}
+.bastis{
+  margin-left: 900px;
+  margin-top:30px;
+  width: 2000px;
+  height: 1288px;
+}
+.низ{
+  width: 313px;
+  padding-left: 57px;
+  padding-bottom:100px;
+
+}
+.bastis{ position: relative;
+  padding-left: 500px;
+  padding-bottom: 50px;
+}
+.text01{
+  font-size: 48px;
+  padding-left: 200px;
+  font-weight: 842px;
+  bottom: 100px;
+
+}
+.textp{
+  font-style:HalvarMittel-XBd;
+  font-size: 24px;
+  margin-left: 150px;
+  font-weight: 800px;
+  bottom: 100px;
+
+}
+.boxes{
+  padding-left: 110px;
+}
+.pack{
+  margin-left: 175px;
+}
+.block{
+  padding-left: 175px;
+}
+.img6{
+  margin-left: 1px;
+  width: 1188px;
+}
+
+.text02{
+  font-size: 100px;
+  padding-left: 2px;
+  font-weight: 842px;
+  }
+  .man{margin-left: 243px;
+    margin-top:30px;
+    width: 700px;
+    height: 288px;
+  }
+  table {
+      margin: 30px 0;
+      font-size: 48px;
+      width: 100%;
+  }
+  table p {
+      margin: 0 30px 0 0;
+
+  }
+  td {
+      display: block;
+      width: min-content;
+  }
+  .paragraph_1x{
+      text-align: right;
+      margin-right: 120px;
+  }
+  .slanted{
+      font-style: italic;
+  }
+  .Blk {
+      font-family: "Halvar Mittel Blk";
+  }
+  .Blk_suslanted {
+      font-family: "Halvar Mittel Blk SuSlanted";
+  }
+  .ExtraBold {
+      font-family: "Halvar Mittel XBd";
+  }
+  .ExtraBold_suslanted {
+      font-family: "Halvar Mittel XBd SuSlanted";
+  }
+  .Bold {
+      font-family: "Halvar Mittel Rg";
+      font-weight: bold;
+   }
+  .Bold_suslanted {
+      font-family: "Halvar Mittel Rg SuSlanted";
+      font-weight: bold;
+  }
+  .Medium{
+      font-family: "Halvar Mittel Md";
+  }
+  .Medium_suslanted{
+      font-family: "Halvar Mittel Md SuSlanted";
+
+  }
+  .Regular{
+      font-family: "Halvar Mittel Rg";
+  }
+  .Regular_suslanted{
+      font-family: "Halvar Mittel Rg SuSlanted";
+  }
+  .Light{
+      font-family: "Halvar Mittel Lt";
+  }
+  .Light_suslanted{
+      font-family: "Halvar Mittel Lt SuSlanted";
+  }
+
+  .Thin{
+      font-family: "Halvar Mittel Th";
+  }
+  .Thin_suslanted{
+      font-family: "Halvar Mittel Th SuSlanted";
+  }
+  .ExtraThin{
+      font-family: "Halvar Mittel XTh";
+  }
+  .ExtraThin_suslanted{
+      font-family: "Halvar Mittel XTh SuSlanted";
+  }
+
+  .Hairline{
+      font-family: "Halvar Mittel Hl";
+  }
+  .Hairline_suslanted{
+      font-family: "Halvar Mittel Hl SuSlanted";
+  }
+  .image10{
+    position: absolute;
+  }
+
+body {
+    background-color: #EAE4DF;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Halvar Mittelschrift', sans-serif;
+    margin: 100px 100px 80px 150px;
+
+}
