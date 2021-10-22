@@ -18,20 +18,20 @@ h1, h2, h3 {
       width:765px;
     padding-top: 100px;
     padding-left:200px ;
-    padding-bottom: 400px;
+    padding-bottom: 500px;
 
 }
     .img2{
     margin-left: 200px;
   padding-bottom: 200px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 300px;
   width: 441px;
   height:95px;
 }
 .img33{
-   margin-left: 250px;
-   width: 1500px;
+   margin-left: 350px;
+   width: 1181px;
    padding-top: 200px;
    padding-bottom: 20px;
 }
@@ -79,12 +79,15 @@ h1, h2, h3 {
 .img6{
   margin-left: 1px;
   width: 1188px;
+  height: 595px;
+  padding-bottom: 50px;
 }
 
 .text02{
   font-size: 48px;
   padding-left: 2px;
   font-weight: 842px;
+  padding-bottom: 30px;
   }
   .man{margin-left: 243px;
     margin-top:30px;
@@ -94,7 +97,9 @@ h1, h2, h3 {
 
   }
 .table{
-  padding-left:20px
+  padding-left:20px;
+  width: 1431px;
+  height: 1811px;
 }
   .paragraph_1x{
       text-align: right;
