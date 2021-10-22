@@ -35,5 +35,10 @@ font-weight: 700px;
     .img2{
       padding-left: 2008px;
       margin-bottom: 400px;
+      width: 1000px;
 
+    }
+    .img3{
+      width: 2000px;
+      margin-left: 350px;
     }
