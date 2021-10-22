@@ -2,28 +2,32 @@
 h1, h2, h3 {
     font-family: 'Halvar Mittelschrift', sans-serif; font-weight: "ExtraBold";
   }
-    h1{ font-size: 100px;
+    h1{ font-size: 200px;
      font-weight: bold;
     }
-    h2{font-size: 100px;
+    h2{font-size: 200px;
     font-weight: Medium;
     font-family:'Halvar Mittel Md';
     }
 
 
     h1 {margin-top: 10px;
-    margin-left:10px }
+    margin-left:10px; }
 
     .img1{
-      width:1885px;
+      width:1500px;
     margin-top: 20px;
-    margin-left:200px ;
+    padding-left:190px ;
 
 }
     .img2{
-    margin-left: 2000px;
+    margin-left: 1800px;
   padding-bottom: 300px;
   width: 1000px;
+}
+.img33{
+   margin-left: 80px;
+   width: 2000px
 }
 
     .img4{
@@ -66,8 +70,12 @@ h1, h2, h3 {
 }
 .text01{
   font-size: 48px;
+  font-family:"Halvar Mittel Rg ";
   padding-left: 200px;
-  font-weight: 842px;
+  font-weight: 400px;
+  padding-top: 100PX;
+  padding-bottom: 100PX;
+  width: 842PX;
   bottom: 100px;
 
 }
@@ -80,9 +88,14 @@ h1, h2, h3 {
 
 }
 .boxes{
-  padding-left: 110px;
+  width: 2000px;
+  padding-left: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
 }
 .pack{
+  width:1188px;
   margin-left: 175px;
 }
 .block{
@@ -94,7 +107,7 @@ h1, h2, h3 {
 }
 
 .text02{
-  font-size: 100px;
+  font-size: 200px;
   padding-left: 2px;
   font-weight: 842px;
   }
