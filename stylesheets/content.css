@@ -1,4 +1,10 @@
-
+body{
+    font-family: 'Halvar Mittelschrift';
+    position: relative;
+    width: 1440px;
+    display: block;
+    margin: 0 auto;
+  }
 h1, h2, h3 {
     font-family: 'Halvar Mittelschrift', sans-serif; font-weight: "ExtraBold";
   }
@@ -7,11 +13,22 @@ h1, h2, h3 {
     }
     h2{font-size: 144px;
     font-weight: Medium;
-    font-family:'Halvar Mittel Md';
+    font-family:'HalvarMittel-Bd';
     }
 
 
     h1 {margin-top: 10px;
     margin-left:10px; }
 
-    
+    .text1{
+      margin-top: 200px;
+      margin-left: 126px;
+      font-family:'HalvarMittel-Bd';
+
+    }
+    .img1{
+      width: 765px;
+      height: 288px;
+       margin-top: 519px;
+       margin-left: 243px;
+    }
