@@ -371,11 +371,11 @@
     url("../fonts/HalvarMittelschriftBlkSlanted/HalvarMittelschriftBlkSlanted.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;}
-body {
-  background-color: #EAE4DF;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-family: 'Halvar Mittelschrift', sans-serif;
-  margin: 100px 100px 80px 150px;
+    
+    body {
 
-}
+          font-family: 'Halvar Mittelschrift', serif;
+          width: 1440px;
+          background-color:#EAE4DF;
+          margin: auto 50px;
+        }
