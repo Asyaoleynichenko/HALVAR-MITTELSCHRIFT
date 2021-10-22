@@ -52,21 +52,6 @@ h1, h2, h3 {
   margin-top: 190px;
 
 }
-.bastis{
-  margin-left: 900px;
-  margin-top:30px;
-  width: 2000px;
-  height: 1288px;
-}
-.низ{
-  width: 313px;
-  padding-left: 57px;
-  padding-bottom:100px;
-
-}
-.bastis{ position: relative;
-  padding-left: 500px;
-  padding-bottom: 50px;
 }
 .text01{
   font-size: 48px;
@@ -107,8 +92,10 @@ h1, h2, h3 {
 }
 
 .text02{
-  font-size: 200px;
+  font-size: 48px;
   padding-left: 2px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-weight: 842px;
   }
   .man{margin-left: 243px;
