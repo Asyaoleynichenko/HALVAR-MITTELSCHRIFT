@@ -200,7 +200,9 @@ h1, h2, h3 {
   .image10{
     position: absolute;
   }
-
+.table{
+  padding-right: 1000px;
+}
 body {
     background-color: #EAE4DF;
     -webkit-font-smoothing: antialiased;
