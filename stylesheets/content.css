@@ -180,9 +180,9 @@ td {
     font-family: "Halvar Mittel Hl SuSlanted";
 }
 .bigtable{
-    max-width: 5440px;
+    max-width: 1440px;
     display: flex;
     justify-content: center;
-    padding-left: 1370px
+    padding-right: 10px
 }
 .line1{}
