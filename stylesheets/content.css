@@ -6,20 +6,19 @@ body{
     margin: 0 auto;
   }
 h1, h2, h3 {
-    font-family: 'Halvar Mittelschrift', sans-serif; font-weight: "ExtraBold";
+    font-family: 'Halvar Mittel Rg', sans-serif; font-weight: "ExtraBold";
   }
     h1{ font-size: 144px;
      font-weight: bold;
+     margin-top: 13px;
+     margin-left:10px;
     }
     h2{font-size: 144px;
-    font-weight: Medium;;
+    font-weight: Medium;
     }
 p{
   font-family:'HalvarMittelschrift-RgSlanted', sans-serif; font-weight: "italic";
 }
-
-    h1 {margin-top: 13px;
-    margin-left:10px; }
 
     .text1{
       margin-top: 300px;
