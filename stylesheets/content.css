@@ -15,7 +15,9 @@ h1, h2, h3 {
     font-weight: Medium;
     font-family:'HalvarMittel-Bd';
     }
-
+p{
+  font-family:'Halvar Mittelschrift', sans-serif; font-weight: "Regular_suslanted";
+}
 
     h1 {margin-top: 13px;
     margin-left:10px; }
