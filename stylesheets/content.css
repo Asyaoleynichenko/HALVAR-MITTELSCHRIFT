@@ -179,10 +179,3 @@ td {
 .Hairline_suslanted{
     font-family: "Halvar Mittel Hl SuSlanted";
 }
-.bigtable{
-    max-width: 1440px;
-    display: flex;
-    justify-content: center;
-    padding-right: 10px
-}
-.line1{}
