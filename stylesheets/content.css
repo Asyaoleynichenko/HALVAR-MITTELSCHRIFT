@@ -6,7 +6,9 @@ body{
     margin: 0 auto;
   }
 h1, h2, h3 {
-    font-family: 'Halvar Mittel XBd', sans-serif; font-weight:"ExtraBold";
+    font-family: 'Halvar Mittel XBd', sans-serif;
+    font-weight: 800;
+    
   }
     h1{ font-size: 144px;
      font-weight: bold;
