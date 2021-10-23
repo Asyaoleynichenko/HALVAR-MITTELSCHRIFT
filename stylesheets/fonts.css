@@ -1,6 +1,3 @@
-@import "reset.css";
-@import "content.css";
-@import "fonts.css";
 @font-face {
   font-family: 'HalvarMittel-Blk';
   src: url('HalvarMittel-BlkSlanted.eot');
@@ -372,12 +369,3 @@
     url("../fonts/HalvarMittelschriftBlkSlanted/HalvarMittelschriftBlkSlanted.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;}
-
-    body {
-
-          font-family: 'Halvar Mittelschrift', serif;
-          position: relative;
-          width: 1440px;
-          background-color:#EAE4DF;
-          margin: auto 50px;
-        }
