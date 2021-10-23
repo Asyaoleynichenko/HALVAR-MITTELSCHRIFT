@@ -100,3 +100,89 @@ font-weight: 700px;
         padding-top: 390px;
 
       }
+      table {
+    margin: 30px 0;
+    font-size: 48px;
+    width: 100%;
+}
+table p {
+    margin: 0 30px 0 0;
+
+}
+td {
+    display: block;
+    width: min-content;
+}
+.paragraph_1x{
+    text-align: right;
+    margin-right: 120px;
+}
+.slanted{
+    font-style: italic;
+}
+.Blk {
+    font-family: "Halvar Mittel Blk";
+}
+.Blk_suslanted {
+    font-family: "Halvar Mittel Blk SuSlanted";
+}
+.ExtraBold {
+    font-family: "Halvar Mittel XBd";
+}
+.ExtraBold_suslanted {
+    font-family: "Halvar Mittel XBd SuSlanted";
+}
+.Bold {
+    font-family: "Halvar Mittel Rg";
+    font-weight: bold;
+ }
+.Bold_suslanted {
+    font-family: "Halvar Mittel Rg SuSlanted";
+    font-weight: bold;
+}
+.Medium{
+    font-family: "Halvar Mittel Md";
+}
+.Medium_suslanted{
+    font-family: "Halvar Mittel Md SuSlanted";
+
+}
+.Regular{
+    font-family: "Halvar Mittel Rg";
+}
+.Regular_suslanted{
+    font-family: "Halvar Mittel Rg SuSlanted";
+}
+.Light{
+    font-family: "Halvar Mittel Lt";
+}
+.Light_suslanted{
+    font-family: "Halvar Mittel Lt SuSlanted";
+}
+
+.Thin{
+    font-family: "Halvar Mittel Th";
+}
+.Thin_suslanted{
+    font-family: "Halvar Mittel Th SuSlanted";
+}
+.ExtraThin{
+    font-family: "Halvar Mittel XTh";
+}
+.ExtraThin_suslanted{
+    font-family: "Halvar Mittel XTh SuSlanted";
+}
+
+.Hairline{
+    font-family: "Halvar Mittel Hl";
+}
+.Hairline_suslanted{
+    font-family: "Halvar Mittel Hl SuSlanted";
+}
+.bigtable{
+    max-width: 1440px;
+    display: flex;
+    justify-content: center;
+    padding-left: 1370px
+}
+.line1{}
