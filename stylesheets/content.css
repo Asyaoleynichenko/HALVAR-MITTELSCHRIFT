@@ -6,9 +6,9 @@ body{
     margin: 0 auto;
   }
 h1, h2, h3 {
-    font-family: 'Halvar Mittel XBd', sans-serif;
+    font-family: 'HalvarMittel-XBd', sans-serif;
     font-weight: 800;
-    
+
   }
     h1{ font-size: 144px;
      font-weight: bold;
@@ -19,7 +19,7 @@ h1, h2, h3 {
     font-weight: Medium;
     }
 p{
-  font-family:'HalvarMittelschrift-RgSlanted', sans-serif; font-weight: "italic";
+  font-family:'HalvarMittel-RgSlanted', sans-serif; font-weight: "italic";
 }
 
     .text1{
