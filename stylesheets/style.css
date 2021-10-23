@@ -1,5 +1,6 @@
 @import "reset.css";
 @import "content.css";
+@import "stylesheet.css";
 @font-face {
   font-family: 'Halvar Mittel Blk';
   src: url('HalvarMittel-BlkSlanted.eot');
