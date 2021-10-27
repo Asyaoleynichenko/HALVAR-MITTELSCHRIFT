@@ -10,12 +10,12 @@ h1, h2, h3 {
     font-weight: 800;
 
   }
-    h1{ font-size: 144px;
+    h1{ font-size: 244px;
      font-weight: bold;
      margin-top: 13px;
      margin-left:10px;
     }
-    h2{font-size: 144px;
+    h2{font-size: 244px;
     font-weight: Medium;
     }
 p{
@@ -30,56 +30,59 @@ font-size: 144px;
 font-weight: 700px;
     }
     .img1{
-       margin-top: 200px;
-       margin-left: 243px;
+       margin-top: 400px;
+       margin-left: 743px;
        margin-bottom: 300px;
-       width: 2500px;
+       width: 3500px;
     }
     .img2{
-      padding-left: 2508px;
+      padding-left: 3908px;
       margin-bottom: 600px;
       width: 1000px;
 
     }
     .img3{
-      width: 2000px;
-      margin-left: 550px;
+      width: 3000px;
+      margin-left: 850px;
     }
     .m1{
-      margin-left: 550px;
+      margin-left: 950px;
       margin-top: 150px;
     }
     .img4{
-      width: 2000px;
-      margin-left: 550px;
+      width: 3000px;
+      margin-left: 850px;
       margin-top: 150px;
 
     }
     .img5{
-      margin-left: 250px;
+      margin-left: 450px;
       margin-top: 150px;
+      width: 4000px;
     }
     .img6{
-      margin-left: 750px;
+      margin-left: 890px;
       margin-top: 60px;
-      width: 2000px;
+      width: 3000px;
 
     }
     .img7{
-      padding-left: 260px;
+      padding-left: 890px;
     }
     .img8{
-      padding-left: 260px;
+      padding-left: 890px;
       padding-top: 130px;
       padding-bottom: 100px;
 
     }
     .img9{
-      padding-left: 1350px;
+      padding-left: 1750px;
       padding-top: 700px;
+      width: 1500px;
     }
     .img10{
-      padding-left: 1195px;
+      padding-left: 1300px;
+      width: 2500px;
 
     }
     .img11{
@@ -90,16 +93,16 @@ font-weight: 700px;
       position: relative;
     }
     .img112{
-      padding-left:500px;
+      padding-left:890px;
       padding-top: 60px;
-      width: 2000px;
+      width: 2500px;
       position: absolute;
     }
       .text666{
         position: relative;
         width: 2000px;
-        padding-left: 1500px;
-        padding-top: 390px;
+        padding-left: 2000px;
+        padding-top: 490px;
 
       }
       table {
