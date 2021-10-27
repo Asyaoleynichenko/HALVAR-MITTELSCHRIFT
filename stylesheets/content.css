@@ -1,9 +1,12 @@
+html {
+  scroll-behavior:smooth;
+}
 body{
     font-family: 'Halvar Mittelschrift';
     position: relative;
     width: 1440px;
     display: block;
-    margin: 0 auto;
+    margin: 0 ;
   }
 h1, h2, h3 {
     font-family: 'HalvarMittel-XBd', sans-serif;
