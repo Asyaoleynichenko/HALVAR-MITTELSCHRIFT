@@ -53,10 +53,27 @@ font-weight: 700px;
     .bastis{
       width: 919px;
       height: 283px;
-      padding-left:423px;
-      top: 1160px;
+      padding-left:323px;
+      top: 1060px;
+      font-size: 250px;
+      line-height: 289px;
       position: absolute;
     }
+    .img22{
+      padding-left: 690px;
+      width: 1480,08px;
+      height:103,99px;
+      top: 850px;
+      position: absolute;
+    }
+    .img11{
+      padding-left: 140px;
+      width: 1480,08px;
+      height:103,99px;
+      top: 1280px;
+      position: absolute;
+    }
+
     .Re{
       position: absolute;
 width: 1081px;
@@ -119,10 +136,6 @@ top: 15px;
       padding-left: 165px;
       width: 1110px;
 
-    }
-    .img11{
-      width: 2000px;
-      padding-left: 500px;
     }
     .container{
       position: relative;
