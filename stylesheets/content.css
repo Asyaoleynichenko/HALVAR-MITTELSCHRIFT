@@ -1,24 +1,18 @@
 html {
   scroll-behavior:smooth;
 }
-body{
-    font-family: 'Halvar Mittelschrift';
-    position: relative;
-    width: 1440px;
-    display: block;
-    margin: 0 ;
-  }
+
 h1, h2, h3 {
     font-family: 'HalvarMittel-XBd', sans-serif;
     font-weight: 500;
 
   }
-    h1{ font-size: 144px;
+    h1{ font-size: 10vw;
      font-weight: bold;
-     margin-top: 13px;
-     margin-left:10px;
+     margin-top: 0.903vw;
+     margin-left:0.694vw;
     }
-    h2{font-size: 144px;
+    h2{font-size: 10vw;
     font-weight: Medium;
     }
 p{
@@ -26,24 +20,24 @@ p{
 }
 
     .text1{
-      margin-top: 50px;
-      margin-left: 150px;
+      margin-top: 3.472vw;
+      margin-left: 10.417vw;
       font-family:'HalvarMittel-Bd';
-font-size: 144px;
-font-weight: 700px;
+font-size: 10vw;
+font-weight: 48.611vw;
     }
     .img1{
-       margin-top: 19px;
-       margin-left: 243px;
-       margin-bottom: 300px;
-       width: 765px;
-       height: 288px;
+       margin-top: 1.319vw;
+       margin-left: 16.875vw;
+       margin-bottom: 20.833vw;
+       width: 53.125vw;
+       height: 20vw;
     }
     .img2{
-      padding-left: 100px;
-      width: 441px;
-      height: 95px;
-      margin-top:257px;
+      padding-left: 6.944vw;
+      width: 30.625vw;
+      height: 6.597vw;
+      margin-top:17.847vw;
       position: absolute;
 
     }
@@ -51,118 +45,122 @@ font-weight: 700px;
       position: relative;
     }
     .bastis{
-      width: 919px;
-      height: 283px;
-      padding-left:323px;
-      top: 1060px;
-      font-size: 250px;
-      line-height: 289px;
+      width: 63.819vw;
+      height: 19.653vw;
+      padding-left:22.431vw;
+      top: 73.611vw;
+      font-size: 17.361vw;
+      line-height: 20.069vw;
       position: absolute;
     }
     .img22{
-      padding-left: 690px;
-      width: 1480,08px;
-      height:103,99px;
-      top: 850px;
+      padding-left: 40vw;
+      width: 50vw;
+      top: 34vw;
+      z-index: 1;
       position: absolute;
     }
     .img11{
-      padding-left: 140px;
-      width: 1480,08px;
-      height:103,99px;
-      top: 1280px;
+      padding-left: 1vw;
+      width: 30vw;
+      top: 85.5vw;
+      z-index: 1;
       position: absolute;
     }
 
     .Re{
       position: absolute;
-width: 1081px;
-height: 595px;
-left: 130.5px;
-top: 15px;
+width: 75.069vw;
+height: 41.319vw;
+left: 9.063vw;
+top: 1.042vw;
 
     }
     .img3{
-  width: 919px;
-  height: 283px;
-  left: 130.5px;
-  top: 1315px;
+  width: 63.819vw;
+  height: 19.653vw;
+  left: 9.063vw;
+  top: 91.319vw;
 1315px
     }
     .t1{
-      padding-top:690px;
-      padding-left: 182px;
-      font-size: 48px;
-      weight:842px;
+      padding-top:47.917vw;
+      padding-left: 12.639vw;
+      font-size: 3.333vw;
+      weight:58.472vw;
+      z-index: 6;
     }
     .m1{
-      margin-left: 950px;
-      margin-top: 150px;
+      margin-left: 65.972vw;
+      margin-top: 10.417vw;
+      z-index: 6;
     }
     .img4{
-      width: 1067px;
-      margin-left: 105px;
-      margin-top: 150px;
+      width: 100vw;
+      margin-left: 7.292vw;
+      margin-top: 10.417vw;
+      z-index: 6;
 
     }
     .img5{
-      margin-left: 105px;
-      margin-top: 30px;
-      width: 1431px;
+      margin-left: 3vw;
+      margin-top: 2.083vw;
+      width: 99.375vw;
+
     }
     .img6{
-      margin-left: 140px;
-      margin-top: 50px;
-      width: 1331px;
+      margin-left: 3vw;
+      margin-top: 3.472vw;
+      width: 92.431vw;
 
     }
     .img7{
-    padding-left: 140px;
+    padding-left: 9.722vw;
     }
     .img8{
-      padding-left: 140px;
-      padding-top: 130px;
-      padding-bottom: 100px;
-      width: 1109px;
+      padding-left: 9.722vw;
+      padding-top: 9.028vw;
+      padding-bottom: 6.944vw;
+      width: 77.014vw;
 
     }
     .img9{
-      padding-left: 367px;
-      padding-top: 500px;
-      width: 664px;
-      height: 1344px;
+      padding-left: 25.486vw;
+      padding-top: 34.722vw;
+      width: 46.111vw;
+      height: 93.333vw;
     }
     .img10{
-      padding-left: 165px;
-      width: 1110px;
+      padding-left: 11.458vw;
+      width: 77.083vw;
 
     }
     .container{
       position: relative;
     }
     .img112{
-      padding-left:190px;
-      padding-top: 60px;
-      width: 1010px;
-      height: 457,85px;
+      padding-left:13.194vw;
+      padding-top: 4.167vw;
+      width: 70.139vw;
+      height: 31.736vw;
       position: absolute;
     }
       .text666{
         position: relative;
-        width:1188px;
-        padding-left: 632px;
-        padding-top: 200px;
+        width:82.500vw;
+        padding-left: 43.889vw;
+        padding-top: 13.889vw;
         font-style: normal;
         font-weight: bold;
-        font-size: 100px;
-        line-height: 116px;
+        font-size: 6.944vw;
+        line-height: 8.056vw;
 
 
 
 }
 .paragraph_1x{
     text-align: right;
-    margin-right: 120px;
+    margin-right: 8.333vw;
 }
 .slanted{
     font-style: italic;
@@ -227,31 +225,31 @@ top: 15px;
     font-family: "Halvar Mittel Hl SuSlanted";
 }
 .t2{
-  width: 946px;
-height: 343px;
-padding-left: 155px;
-padding-top:50px;
+  width: 65.694vw;
+height: 23.819vw;
+padding-left: 10.764vw;
+padding-top:3.472vw;
 font-family: Halvar Mittelschrift;
 font-style: italic;
 font-weight: normal;
-font-size: 48px;
-line-height: 56px;
+font-size: 3.333vw;
+line-height: 3.889vw;
 }
 .t3{
-  width: 1188px;
-height: 492px;
-padding-top:50px;
-padding-left: 140px;
+  width: 82.500vw;
+height: 34.167vw;
+padding-top: 3.472vw;
+padding-left: 9.722vw;
 }
 .t4{
   font-family: Halvar Mittelschrift;
 font-style: italic;
 font-weight: normal;
-font-size: 64px;
-line-height: 74px;
-padding-top:50px;
-padding-left: 140px;
-width: 1030px;
-height: 343px;
+font-size: 4.444vw;
+line-height: 5.139vw;
+padding-top: 3.472vw;
+padding-left: 9.722vw;
+width: 71.528vw;
+height: 23.819vw;
 
 }
